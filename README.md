@@ -1,5 +1,6 @@
 # Currency-Converter
 Currency Converter made in Java. 
+
 -Developed a dynamic currency converter application in Java that enables real-time currency exchange calculations between multiple currencies.
 
 -Utilized Java Swing for a user-friendly GUI, providing a seamless and interactive experience for users to input, select, and view conversion results.
